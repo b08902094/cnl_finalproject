@@ -1,5 +1,9 @@
 # Free WiFi after watching advertisement
 
+## Deadline
+
+**Demo: June, 1, 2022 10:00-17:30**
+
 ## Brainstorm
 
 https://hackmd.io/hSWtv-1OQZ2GAJNjLqZGhQ
