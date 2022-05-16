@@ -28,7 +28,7 @@
 | Play ad -> <br />connect to the wifi | judge if customer has watched an ad<br />and provide wifi connection |      |      |
 | AP setup                             | Database, ipTable, etc…                                      |      |      |
 | Flow control                         | Visualize the status (a piechart like display?)<br />and limit the usage by time/packet |      |      |
-| get user info                        | get ip address/manually set up a login page                  |      |      |
+| get user info                        | get ip address/manually set up a login page                  | Jim  |      |
 | survey checker                       | check if it is a reasonable response                         | Jim  |      |
 | receipt input                        | get info about the vendor and time                           |      |      |
 | coupon issuer                        | issue a coupon as a customer watches ads for certain amount of time |      |      |
