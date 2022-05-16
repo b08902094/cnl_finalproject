@@ -17,7 +17,7 @@
 | SERVICES      | (our about page) HTML/CSS |        |      |
 | CONTACT       | CONTACT HTML/CSS          |        |      |
 | ad player     | play ad HTML/JSorPHP      |        |      |
-| survey form   | survey form HTML/CSS      |        |      |
+| survey form   | survey form HTML/CSS      |  Jim   |      |
 | receipt input |                           |        |      |
 |               |                           |        |      |
 
@@ -29,7 +29,7 @@
 | AP setup                             | Database, ipTable, etc…                                      |      |      |
 | Flow control                         | Visualize the status (a piechart like display?)<br />and limit the usage by time/packet |      |      |
 | get user info                        | get ip address/manually set up a login page                  |      |      |
-| survey checker                       | check if it is a reasonable response                         |      |      |
+| survey checker                       | check if it is a reasonable response                         | Jim  |      |
 | receipt input                        | get info about the vendor and time                           |      |      |
 | coupon issuer                        | issue a coupon as a customer watches ads for certain amount of time |      |      |
 |                                      |                                                              |      |      |
