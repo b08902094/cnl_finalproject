@@ -4,13 +4,7 @@
 
 **Demo: June, 1, 2022 10:00-17:30**
 
-## Brainstorm
 
-https://hackmd.io/hSWtv-1OQZ2GAJNjLqZGhQ
-
-## Proposal
-
-https://docs.google.com/presentation/d/198CdXvjh5mZ1FNMo20hb9dZJ_j7oT9M5qZtiIfO6qoM/edit?usp=sharing
 
 ## TO DO
 
@@ -37,6 +31,14 @@ https://docs.google.com/presentation/d/198CdXvjh5mZ1FNMo20hb9dZJ_j7oT9M5qZtiIfO6
 | get user info                        | get ip address/manually set up a login page                  |      |      |
 | survey checker                       | check if it is a reasonable response                         |      |      |
 | receipt input                        | get info about the vendor and time                           |      |      |
-| coupon issuer                        | issues a coupon as a customer watches ads for certain amount of time |      |      |
+| coupon issuer                        | issue a coupon as a customer watches ads for certain amount of time |      |      |
 |                                      |                                                              |      |      |
 |                                      |                                                              |      |      |
+
+## Brainstorm
+
+https://hackmd.io/hSWtv-1OQZ2GAJNjLqZGhQ
+
+## Proposal
+
+https://docs.google.com/presentation/d/198CdXvjh5mZ1FNMo20hb9dZJ_j7oT9M5qZtiIfO6qoM/edit?usp=sharing
