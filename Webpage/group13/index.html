@@ -1,4 +1,22 @@
 <!DOCTYPE html>
+
+<?php
+
+	/*  
+	    How to get client IP at the other web page?
+	    1.  add session_start() 
+	    2.  _SESSION[clientIP] will be the variable which store client IP
+	*/	
+	session_start();
+	$_SESSION['clientIP'] = _SERVER['REMOTE_ADDR']; 
+	
+	/*  Iptable setting  */   
+	exec("sudo iptables -A FORWARD -s $_SESSION[clientIP] -j DROP");
+	exec("sudo iptables -A FORWARD -d $_SESSION[clientIP] -j DROP");
+	exec("sudo iptables -t nat -D PREROUTING -s $_SESSION[clientIP] -j ACCEPT");
+
+?>
+
 <html>
 
 <head>
