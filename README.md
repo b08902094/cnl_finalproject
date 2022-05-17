@@ -13,8 +13,8 @@
 | Job           | Description               | Name   | ☑    |
 | ------------- | ------------------------- | ------ | ---- |
 | HOME          | HOME HTML/CSS             | Marika |      |
-| LOGIN         | LOGIN HTML/CSS            |        |      |
-| SERVICES      | (our about page) HTML/CSS |        |      |
+| LOGIN         | LOGIN HTML/CSS            | Marika |      |
+| SERVICES      | (our about page) HTML/CSS | Marika |      |
 | CONTACT       | CONTACT HTML/CSS          |        |      |
 | ad player     | play ad HTML/JSorPHP      |        |      |
 | survey form   | survey form HTML/CSS      |  Jim   |      |
