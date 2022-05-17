@@ -13,7 +13,7 @@
 	/*  Iptable setting  */   
 	exec("sudo iptables -A FORWARD -s $_SESSION[clientIP] -j DROP");
 	exec("sudo iptables -A FORWARD -d $_SESSION[clientIP] -j DROP");
-	exec("sudo iptables -t nat -D PREROUTING -s $_SESSION[clientIP] -j ACCEPT");
+	exec("sudo iptables -t nat -I PREROUTING -s $_SESSION[clientIP] -j ACCEPT");
 
 ?>
 
