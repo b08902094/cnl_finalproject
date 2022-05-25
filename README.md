@@ -16,9 +16,8 @@ https://hackmd.io/vQ3YcUb3SH-RpYx_mP-6FA
 | HOME          | HOME HTML/CSS             | Marika |      |
 | LOGIN         | LOGIN HTML/CSS            | Marika |      |
 | SERVICES      | (our about page) HTML/CSS | Marika |      |
-| CONTACT       | CONTACT HTML/CSS          |        |      |
 | ad player     | play ad HTML/JSorPHP      |        |      |
-| survey form   | survey form HTML/CSS      |  Jim   |      |
+| survey form   | survey form HTML/CSS      | Jim    |      |
 | receipt input |                           |        |      |
 |               |                           |        |      |
 

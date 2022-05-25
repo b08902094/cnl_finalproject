@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <?php
 
 	/*  
@@ -33,9 +31,9 @@
     <nav id="navbar">
         <div class="container">
             <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="Login.html">Login</a></li>
-                <li><a href="About.html">About</a></li>
+                <li><a href="welcome.php">Home</a></li>
+                <li><a href="Login.php">Login</a></li>
+                <li><a href="About.php">About</a></li>
             </ul>
         </div>
     </nav>
