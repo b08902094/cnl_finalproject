@@ -40,7 +40,7 @@
         <section id="showcase">
             <div class="container">
                 <h1>
-                    Our mission is to provide an simple but beneficial ad-based wifi service to a small vendors.
+                    Our mission is to provide an simple but beneficial ad-based wifi service to small vendors.
                 </h1>
             </div>
         </section>
