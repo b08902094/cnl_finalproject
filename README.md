@@ -19,7 +19,7 @@ https://hackmd.io/vQ3YcUb3SH-RpYx_mP-6FA
 | CONTACT       | CONTACT HTML/CSS          |        |      |
 | ad player     | play ad HTML/JSorPHP      | Jason  |      |
 | survey form   | survey form HTML/CSS      |  Jim   |      |
-| receipt input |                           |        |      |
+| receipt input |                           | Megan  |      |
 |               |                           |        |      |
 
 ### IMPLEMENTATION
