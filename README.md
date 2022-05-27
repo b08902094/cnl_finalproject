@@ -33,7 +33,7 @@ https://hackmd.io/vQ3YcUb3SH-RpYx_mP-6FA
 | survey checker                       | check if it is a reasonable response                         | Jim  |      |
 | receipt input                        | get info about the vendor and time                           |      |      |
 | coupon issuer                        | issue a coupon as a customer watches ads for certain amount of time |      |      |
-|                                      |                                                              |      |      |
+| snmp implementation                  | monitor users (trying to but IDK if I can make it in time.                                                             |      |      |
 |                                      |                                                              |      |      |
 
 ## Brainstorm
