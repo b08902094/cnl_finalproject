@@ -60,9 +60,9 @@
                 </p>
             </section>
             <aside id="sidebar">
-                <p>Source code: <button href="">Github</button></p>
-                <p>Report: <button>hackMD</button></p>
-                <p>demo: <button>Youtube</button></p>
+                <p>Source code: <button onclick="location.href='https://github.com/b08902094/cnl_finalproject/tree/marika-test'">Github</button></p>
+                <p>Report: <button onclick="location.href='https://hackmd.io/@Avril/BJCBYTUvq'">hackMD</button></p>
+                <p>demo: <button onclick="location.href='https://youtu.be/5kliBQc24_0'">Youtube</button></p>
             </aside>
         </div>
 

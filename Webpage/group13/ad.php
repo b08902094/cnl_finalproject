@@ -21,7 +21,7 @@
 		width="640"
 		height="640"
 	>
-		<source src="groupad.mp4" type="video/mp4">	
+		<source src="groupad.mp4" type="video/mp4">
 	</video>
 
 </center>

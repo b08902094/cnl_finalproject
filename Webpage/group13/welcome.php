@@ -39,11 +39,9 @@
     </nav>
     <section id="showcase">
         <div class="container">
-            <h1>Connect to the WIFI by watching a video!<form action="ad.php">
-         <button type="submit">Sponsored ad</button>
-      </form></h1>
-            <h1>OR answring a quick survey! <button href="quesionnairePage.php">Survey</button></h1>
-            <h1>How was your shopping experience? Enter and get rewards!<button href="recipt.php">Recipt</button></h1>
+            <h1>Connect to the WIFI by watching a video!<button onclick="location.href='ad.php'">Sponsored ad</button></h1>
+            <h1>OR answring a quick survey! <button onclick="location.href='loginPag.php'">Survey</button></h1>
+            <h1>How was your shopping experience? Enter and get rewards!<button onclick="location.href='receipt.php'">Receipt</button></h1>
         </div>
     </section>
 
@@ -53,7 +51,7 @@
             <p>ad ad ad ad ad</p>
         </section>
         <aside id="sidebar">
-            <p>Login to see your status: button</p>
+            <p>Login to see your status: <button onclick="location.href='loginInput.php'"> Login </button></p>
         </aside>
     </div>
 
