@@ -39,8 +39,11 @@
     </nav>
     <section id="showcase">
         <div class="container">
-            <h1>Connect to the WIFI by watching a video! <button>Sponsered Ad</button></h1>
+            <h1>Connect to the WIFI by watching a video!<form action="ad.php">
+         <button type="submit">Sponsored ad</button>
+      </form></h1>
             <h1>OR answring a quick survey! <button href="quesionnairePage.php">Survey</button></h1>
+            <h1>How was your shopping experience? Enter and get rewards!<button href="recipt.php">Recipt</button></h1>
         </div>
     </section>
 

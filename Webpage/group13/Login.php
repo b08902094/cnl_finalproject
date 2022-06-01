@@ -42,9 +42,9 @@
         <section id="showcase">
             <div class="container">
                 <h1>
-                    Connect to the WIFI by watching a video! <button>Sponsered Ad</button>
+                    Click here to login <button onclick="location.href='loginInput.php'"> Login </button>
                 </h1>
-                <h1>OR answring a quick survey! <button href="questionnaire.php">Survey</button></h1>
+                <h1>Create your account NOW! <button onclick="location.href='signupPage.php'">Sign up</button></h1>
             </div>
         </section>
 
@@ -54,7 +54,7 @@
                 <p>ad ad ad ad ad</p>
             </section>
             <aside id="sidebar">
-                <p>Login to see your status: button</p>
+            <p>Login to see your status: <button onclick="location.href='loginInput.php'"> Login </button></p>
             </aside>
         </div>
 
